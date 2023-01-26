@@ -1,0 +1,124 @@
+.nav-item{
+ margin-left: 1vh;
+}
+
+.nav-link:hover{
+  background-color: white;
+ }
+
+.container{
+  background-color: lightgreen;
+}
+
+.nav-link{
+font-size: 3vh;
+border: 0.3vh solid white;
+border-radius: 2vh;
+}
+
+.navbar-brand{
+  font-size: 5vh;
+  transition-duration: 0.4s
+}
+
+.navbar-brand:hover{
+  font-size: 6vh;
+}
+
+.welcome{
+justify-content: center;
+display: flex;
+margin-left: 50vh;
+margin-right: 50vh;
+margin-top: 1vh;
+font-size: 3.2vh;
+background-color: lightseagreen;
+border-radius: 2vh;
+padding: 1vh;
+box-shadow: 5px 10px;
+}
+
+.myCon{
+  justify-content: center;
+  display: flex;
+  font-size: 5vh;
+  padding: 1vh;
+  box-shadow: 5px 10px;
+  background-color: lightseagreen;
+  border-radius: 2vh;
+  margin-left: 80vh;
+  margin-right: 80vh;
+  margin-bottom: 5vh;
+}
+
+.subtitle{
+  justify-content: center;
+  display: flex;
+  font-size: 3vh;
+  padding: 1vh;
+  box-shadow: 5px 10px;
+  background-color: lightseagreen;
+  border-radius: 2vh;
+  margin-left: 60vh;
+  margin-right: 60vh;
+  margin-bottom: 5vh;
+}
+
+.userCourse{
+  font-size: 3vh;
+  padding: 1vh;
+  box-shadow: 5px 10px;
+  background-color: lightseagreen;
+  border-radius: 2vh;
+  margin-left: 60vh;
+  margin-right: 60vh;
+  margin-bottom: 5vh;
+}
+
+.course{
+  background-color: lightseagreen;
+  margin-top: 10vh;
+  margin-bottom: 1vh;
+  display: flex;
+  
+  
+}
+
+.course_img{
+  width: 50vh;
+  height: 35vh;
+  border-radius: 1vh;
+  margin-left: 20vh;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  
+}
+
+.course_txt{
+margin-left: 5vh;
+width: 75vh;
+margin-top: 2vh;
+}
+
+.course_btn{
+margin-left: 25vh;
+margin-top: 13vh;
+width: 18vh;
+border: none;
+border-radius: 1.5vh;
+color: black;
+background-color: white;
+transition-duration: 0.4s;
+border: 0.5vh solid white;
+box-shadow: 5px 10px;
+}
+
+.course_btn:hover{
+background-color:lightseagreen;
+border: 0.5vh solid black;
+}
+
+.container-fluid{
+  background-color: lightseagreen;
+}
+
